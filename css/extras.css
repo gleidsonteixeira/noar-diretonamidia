@@ -947,6 +947,9 @@ body{
 		width: 100%;
 	}
 
+	#rodape{
+		padding-top: 100px;
+	}
 	#rodape:before{
 		height: 100%;
 		transform: none;
